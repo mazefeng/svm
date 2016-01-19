@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://svn.baidu.com/goodcoder/trunk/mazefeng01/C++-id-7127/test/data
+https://svn.baidu.com/goodcoder
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688347a3-1a7e-4d08-b7af-20cad322083a
+
+test_batch_read_sample.dat
+file
+
+
+
+add
+
+heart_scale.shuffle
+file
+
+
+
+add
+
+heart_scale.train
+file
+
+
+
+add
+
+heart_scale.test
+file
+
+
+
+add
+
+heart_scale.model
+file
+
+
+
+add
+
