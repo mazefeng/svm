@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>install_gtest.html</title>
+
+</head>
+
+<body>
+
+<h1>Install GTest Packages</h1>
+
+<p>In running the test applications we may need gtest if the gtest is not
+already installed. </p>
+
+<h2>Ubuntu 16.04 Installation</h2>
+
+<p>This will install the gtest development pacakges.</p>
+
+<pre><code>sudo apt-get install libgtest-dev
+</code></pre>
+
+<p>Then cmake must be used to build the source packages.
+If you don't have cmake please install it first. </p>
+
+<p><code>
+sudo apt-get install cmake
+</code> </p>
+
+<p>Then move to the gtest folder</p>
+
+<pre><code>cd /usr/src/gtest
+</code></pre>
+
+</body>
+</html>
