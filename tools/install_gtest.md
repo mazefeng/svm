@@ -27,3 +27,7 @@ After that use cmake to make the list
 After compiling copy the files to /usr/lib folder
 	
 	sudo co *.a /usr/lib
+
+## References
+
+[Getting Started With Google Test on Ubuntu](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)
